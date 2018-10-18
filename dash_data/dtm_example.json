@@ -1,6 +1,6 @@
 {
-  "title": "DTM (Africa) IDPs Dashboard",
-  "subtext": "Internally-displaced people (IDPs) surveyed in <u><b>seven African countries</b></u>. These numbers come from the the Displacement Tracking Matrix (DTM) system whose information is <u><b>available on the HDX platform</b></u>. The map and charts are live-updating, incorporating new data as soon as IOM uploads it to the Humanitarian Data Exchange.",
+  "title": "DTM Internal Displacement Dashboard",
+  "subtext": "The information represented in the dashboard below comes from the <u>seven countries</u> utilizing the Displacement Tracking Matrix (DTM) system whose internal displacement data is <u>available on the HDX platform</u>. The map and chart are live-updating, and so as new data is added to the platform, the visuals will update to accurately reflect internal displacement in the countries.",
   "headlinefigures": 3,
   "headlinefigurecharts": [
     {
