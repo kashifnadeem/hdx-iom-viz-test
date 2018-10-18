@@ -1,6 +1,6 @@
 {
   "title": "DTM Internal Displacement Dashboard",
-  "subtext": "The information represented in the dashboard below comes from the <u>seven countries</u> utilizing the Displacement Tracking Matrix (DTM) system whose internal displacement data is <u>available on the HDX platform</u>. The map and chart are live-updating, and so as new data is added to the platform, the visuals will update to accurately reflect internal displacement in the countries.",
+  "subtext": "The information represented in the dashboard below comes from the <u>seven countries</u> utilizing the Displacement Tracking Matrix (DTM) system whose data is <u>available on the HDX platform</u>. The map and chart are live-updating, and so as new data is added to the platform, the visuals will update to accurately reflect internal displacement in the countries.",
   "headlinefigures": 3,
   "headlinefigurecharts": [
     {
